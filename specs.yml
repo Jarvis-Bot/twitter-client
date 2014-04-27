@@ -1,0 +1,21 @@
+author:
+  name: "Victor Bersy"
+  mail: "victor.bersy@gmail.com"
+  contacts:
+    github: "VictorBersy"
+    twitter: "VictorBersy"
+specs:
+  type: "client"
+  name: "Twitter"
+  version: "0.1"
+  description: "Official Twitter client."
+  keywords: [official, twitter]
+  homepage: "http://github.com/Jarvis-Bot/twitter-client"
+  license:
+    type: "MIT"
+    url: "http://github.com/Jarvis-Bot/twitter-client/LICENSE"
+  repository:
+    type: "git"
+    url: "http://github.com/Jarvis-Bot/twitter-client.git"
+client:
+  class name: "TwitterClient"
